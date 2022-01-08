@@ -6,3 +6,6 @@ file is modified from remote repo at 9pm
 
 second edit frm local rep at 9.9
 second edit from remote repo 9:9 pm
+
+
+first edit from branch mybranch
